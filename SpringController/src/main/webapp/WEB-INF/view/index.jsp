@@ -2,6 +2,6 @@
 <body>
 <hr>
 
-<a href="showform">Show form</a>
+<a href="hello/showform">Show form</a>
 </body>
 </html>
