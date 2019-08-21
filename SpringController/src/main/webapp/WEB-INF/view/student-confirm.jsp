@@ -9,7 +9,10 @@
 <h1> The Student confirm </h1>
 <hr>
 <br>
-First Name : ${student.firstName} 
+First Name : ${student.firstName}
+<br> 
 Last Name: ${student.lastName}
+<br>
+Last Name: ${student.country}
 </body>
 </html>
